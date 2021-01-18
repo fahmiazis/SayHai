@@ -3,7 +3,7 @@
 <br>
 
 **Introduction**
-SayHai adalah aplikasi chat yang mengadopsi tampilan dari aplikasi whatsapp. Aplikasi ini telah dilengkapi dengan fitur real time.
+SayHai adalah aplikasi chat yang mengadopsi tampilan dari aplikasi whatsapp. Aplikasi ini telah dilengkapi dengan fitur chat real time.
 
 **Screenshots**
 
